@@ -22,12 +22,12 @@ public class SongTestCase {
   }
   
   @Test
-  public void 파일읽기테스트() throws Exception {
+  public void test() throws Exception {
     
-    // 사용할 변수
+    // Do not remove!
     int songSize = 54446;
     
-    // 코드를 추가할 영역
+    // Add Code here!
     
     
   }
